@@ -14,5 +14,15 @@ distress signals to designated contacts and continuously providing real-time upd
 **Requirements**: Android Studio
 
 **System Architecture**:
+
+
 <img width="506" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/963d0fc2-455b-4a27-a56e-69ce36af91fa">
+
+
+
+
+**Screenshots**:
+
+
+<img width="296" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/7a93cd27-a197-4278-8f76-15c32ac92b15">
 
