@@ -16,7 +16,8 @@ distress signals to designated contacts and continuously providing real-time upd
 **System Architecture**:
 
 
-<img width="506" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/963d0fc2-455b-4a27-a56e-69ce36af91fa">
+<img width="499" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/ee2574e3-487e-496f-af22-c90a1d56be96">
+
 
 
 
@@ -24,5 +25,6 @@ distress signals to designated contacts and continuously providing real-time upd
 **Screenshots**:
 
 
-<img width="296" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/7a93cd27-a197-4278-8f76-15c32ac92b15">
+<img width="301" alt="image" src="https://github.com/shreyapj/SOS_APPLICATION/assets/85942199/cc955a34-0aad-40cb-b11d-3d553d55ad80">
+
 
